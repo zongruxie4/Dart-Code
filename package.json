@@ -3660,7 +3660,7 @@
 		"@vscode/debugadapter-testsupport": "^1.68.0",
 		"@vscode/test-electron": "^2.5.2",
 		"eslint": "^9.31.0",
-		"glob": "^11.0.3",
+		"glob": "^11.1.0",
 		"globals": "^16.3.0",
 		"mocha": "^11.7.1",
 		"nyc": "^17.1.0",
